@@ -1,7 +1,7 @@
 //SPDX-License-Identifier:  MIT
 pragma solidity ^0.8.0;
-import "./badEtherStore.sol";
-//import "./goodEtherStore.sol";
+import "./ex2-bad.sol";
+//import "./ex2-good.sol";
 
 contract attack{
 	EtherStore public etherStore;
